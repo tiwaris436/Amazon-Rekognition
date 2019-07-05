@@ -44,6 +44,8 @@ Now you are ready to work in Amazon Rekognition.
 Put your data into S3 bucket (region of your bucket and the region which you have enterd at the time of aws cli configuartion must be same)
 
 
+Now for performing above mentioned applications download the code file and keep it in some folder on desktop. 
+Using **ENV\Scripts\activate** activate virtual env and then **cd (path to code file)** and then **python (name of codefile.py)**
 
 
 
