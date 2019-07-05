@@ -6,10 +6,10 @@ import sys
 class VideoDetect:
     jobId = ''
     rek = boto3.client('rekognition')
-    queueUrl = 'https://sqs.us-west-1.amazonaws.com/997332955142/Video'
-    roleArn = 'arn:aws:iam::997332955142:role/Rekognition_SNS'
-    topicArn = 'arn:aws:sns:us-west-1:997332955142:AmazonRekognition'
-    bucket = 'mlbucket9'
+    queueUrl = ''
+    roleArn = ''
+    topicArn = ''
+    bucket = ''
     video = 'Skate 3_ 50,000 points in 30 seconds in the MEGA PARK - YouTube (720p).mp4'
 
     #Entry point. Starts analysis of video in specified bucket.
