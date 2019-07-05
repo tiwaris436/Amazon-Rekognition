@@ -48,7 +48,7 @@ Now for performing above mentioned applications download the code file and keep 
 Using **ENV\Scripts\activate** activate virtual env and then **cd (path to code file)** and then **python (name of codefile.py)**
 
 
-**Note: detect.py contains all API's **
+**Note: detect.py contains all API's**
 
 
 
