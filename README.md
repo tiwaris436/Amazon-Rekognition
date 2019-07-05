@@ -10,7 +10,8 @@ For creating it open your command prompt then
 3) Activate the virtual environment: **ENV\Scripts\activate**
 
 Below are the links for the same.
-https://www.techcoil.com/blog/how-to-create-a-python-3-virtual-environment-in-windows-10/ \\
+https://www.techcoil.com/blog/how-to-create-a-python-3-virtual-environment-in-windows-10/ 
+
 https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/
 
 
@@ -23,10 +24,14 @@ Configuring the AWS CLI:
 Run **aws configure**
 
 When you type this command, the AWS CLI prompts you for four pieces of information (access key, secret access key, AWS Region, and output format). It will look like 
-**AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE\\
-AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY\\
-Default region name [None]: us-west-2\\
-Default output format [None]: json**\\
+**AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE**
+
+**AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY**
+
+**Default region name [None]: us-west-2**
+
+**Default output format [None]: json**
+
 
 Enter your access key Id and Secret acces key and the region in which you want to work.
 
