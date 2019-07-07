@@ -1,4 +1,4 @@
-# Amazon-Rekognition
+# Amazon-Rekognition All Applications Codes
 
 Using Amazon Rekognition one can detect faces, recognize faces, recognize emotions, detect objects and recognize objects.
 In this project you can find above mentioned applications of Amazon Rekognition on video file.For doing this follow the below steps.
